@@ -3,22 +3,13 @@ alias: []
 tags: []
 ---
 
-```RpgManager4
-id: 
-  type: "nonplayercharacter"
-  campaign: "Harbingers of Darkness.md"
-data: 
-  description: "HR manager for the Children of Arvellas"
-  pronoun: "she"
-images: 
-  - path: "Characters/Flame.png"
-    caption: ""
-```
----
+
 ### Non Player Character Notes
  - member of the inner Circle of the [[Children of Arvellas]]
  - responsible for HR
  - is at [[Aeneiros Birthday Party]]
+ likes [[Kavan]] for some reason
+ test: [[Kavan#Non Player Character Notes]]
 
 ### Non Player Character Story
  - 
