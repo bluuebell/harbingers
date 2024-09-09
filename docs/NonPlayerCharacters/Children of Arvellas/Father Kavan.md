@@ -3,6 +3,8 @@ alias: []
 tags: []
 ---
 
+![[Kavan.png]]
+
 ### Non Player Character Notes
  - leader of the [[Children of Arvellas]]
 
