@@ -8,8 +8,8 @@ tags: []
  - member of the inner Circle of the [[Children of Arvellas]]
  - responsible for HR
  - is at [[Aeneiros Birthday Party]]
- likes [[Kavan]] for some reason
- test: [[Kavan#Non Player Character Notes]]
+ likes [[harbingers/docs/NonPlayerCharacters/Children of Arvellas/Father Kavan|Father Kavan]] for some reason
+ test: [[harbingers/docs/NonPlayerCharacters/Children of Arvellas/Father Kavan|Father Kavan]]
 
 ### Non Player Character Story
  - 
