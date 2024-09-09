@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"type":"file","file":"NonPlayerCharacters/Higher Levels/Neremyn Cithrel.md","id":"67205c3d26192a07","x":80,"y":-240,"width":320,"height":50,"color":"4"},
+		{"type":"file","file":"NonPlayerCharacters/Higher Levels/Elnaril Cithrel.md","id":"967921754218879e","x":-440,"y":-240,"width":280,"height":50,"color":"4"},
+		{"type":"text","text":"married","id":"430c4b789c2272cb","x":-100,"y":-240,"width":140,"height":50},
+		{"type":"file","file":"NonPlayerCharacters/Guardians & Lightsworn/Aeneiros Cithrel.md","id":"3a2590906ed709bc","x":-524,"y":-60,"width":306,"height":50,"color":"6"},
+		{"type":"file","file":"NonPlayerCharacters/Guardians & Lightsworn/Lirion Cithrel.md","id":"f61dee1e2c4087ac","x":-160,"y":-60,"width":260,"height":50,"color":"6"},
+		{"type":"file","file":"Characters/Bree Zephyre.md","id":"2b6a088556a7ec51","x":160,"y":-60,"width":258,"height":50,"color":"6"}
+	],
+	"edges":[
+		{"id":"7710c16aa55d99d1","fromNode":"67205c3d26192a07","fromSide":"left","toNode":"430c4b789c2272cb","toSide":"right","toEnd":"none"},
+		{"id":"b805e256890b86e6","fromNode":"967921754218879e","fromSide":"right","toNode":"430c4b789c2272cb","toSide":"left","toEnd":"none"},
+		{"id":"b454c6ee9da1828c","fromNode":"430c4b789c2272cb","fromSide":"bottom","toNode":"3a2590906ed709bc","toSide":"top"},
+		{"id":"c64c169e3692a94a","fromNode":"430c4b789c2272cb","fromSide":"bottom","toNode":"f61dee1e2c4087ac","toSide":"top","label":"children"},
+		{"id":"fdbd32dd6bf3b9b2","fromNode":"430c4b789c2272cb","fromSide":"bottom","toNode":"2b6a088556a7ec51","toSide":"top"}
+	]
+}
